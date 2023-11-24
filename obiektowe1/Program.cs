@@ -4,7 +4,7 @@
     public class samochod
     {
         public string marka;
-        public string model;
+        protected string model;
         public int moc;
         public double pojemnosc;
 
